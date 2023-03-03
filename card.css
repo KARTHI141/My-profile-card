@@ -1,0 +1,64 @@
+.main{
+	margin: 40px;
+	
+	background-image: url("https://sm.mashable.com/mashable_in/seo/default/sundar-pichai_anwm.jpg");
+
+	padding: 23px;
+	background-color: rgba(255, 255, 255, 0.2);
+	border: 3px dotted green;
+	word-spacing: 5px;
+
+}
+img{
+	border: none;
+	padding: 5px;
+	background: goldenrod;
+	justify-content: sp;
+	text-align: center;
+	display: flex;
+	width: 200px;
+height: 700;
+}
+.font{
+	font-family: !important;
+	justify-content:;
+	font: italic;
+	color: white;
+	font-size: 50px;
+	text-align: right;
+	text-decoration-color: goldenrod;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	margin-right: 80px;
+	margin-left: 70px;
+	font-weight: bolder;
+	font-display: initial;
+	font color: red;
+
+	
+}
+body{
+	background: lavender;
+	background-blend-mode: screen;
+	word-spacing: 10px;
+	text-align: center;
+}
+.it{
+	font-style: italic;
+	color: yellow;
+	stroke: blue;
+}
+.flag{
+	display: block;
+	margin: 50px auto;
+	background: #BC002d;
+	height: 150px;
+	width: 150px;
+	border-radius: 100px;
+	text-align: center;
+	align-content: center;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
